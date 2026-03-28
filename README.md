@@ -8,8 +8,8 @@ This project transforms traditional AWS exam preparation into a **Netflix-style 
 
 ## 🚀 Live Demo
 
-👉 [Add your PartyRock app link here]  
-👉 🎥 Demo Video: [Add your video link here]
+👉 [https://partyrock.aws/u/dejvid/DHnz3qUX2/AWS-SAA-AI-Coach]  
+👉 🎥 [Watch the video](https://www.youtube.com/watch?v=cMg6FF2ZbmQ
 
 ---
 
